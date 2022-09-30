@@ -8,4 +8,6 @@
 
 In this project I have created funtion to get value from input and add it to the task container.That added lists can be edited and deleted.
 
+[live link](https://todolists-app-js.netlify.app/)
+
 ![screen shot](./Image/screen-shot.png)
